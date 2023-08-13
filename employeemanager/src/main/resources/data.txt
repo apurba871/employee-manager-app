@@ -1,0 +1,30 @@
+{
+    {
+        "email": "daniel@gmail.com",
+        "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+        "jobTitle": "Developer",
+        "name": "Daniel Craig",
+        "phone": "4500943570"
+    }
+    {
+            "email": "christine@gmail.com",
+            "imageUrl": "https://bootdey.com/img/Content/avatar/avatar2.png",
+            "jobTitle": "UI/UX",
+            "name": "Christine Smith",
+            "phone": "1234093470"
+    }
+    {
+            "email": "dave@gmail.com",
+            "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+            "jobTitle": "Manager",
+            "name": "Dave Roggers",
+            "phone": "6545949089"
+    }
+    {
+            "email": "megan@gmail.com",
+            "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+            "jobTitle": "Developer",
+            "name": "Megan Rose",
+            "phone": "4433943570"
+    }
+}
